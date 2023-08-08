@@ -1,6 +1,6 @@
 # pomodoro
 
-a simple program that can help you to perform pomodoro technique.
+A simple program that can help you perform the pomodoro technique.
 
 ### Quick Explanation
 
